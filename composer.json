@@ -33,7 +33,7 @@
   "require": {
     "php": "^8.2",
     "ext-msgpack": "*",
-    "courier/contracts": "dev-main"
+    "courier/contracts": "self.version"
   },
   "require-dev": {
     "infection/infection": "^0.26",
